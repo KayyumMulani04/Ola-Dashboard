@@ -87,7 +87,7 @@ How to Use This Project
 
 Clone this repository:
 
-git clone https://github.com/yourusername/ola-data-analysis.git
+git clone https://github.com/KayyumMulani04/ola-data-analysis.git
 
 Set up your SQL database and import ola_bookings.csv.
 
